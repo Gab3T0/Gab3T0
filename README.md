@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gab3T0
+- 👀 I’m interested in learning new techniques and programming languages.
+- 🌱 I’m currently learning Java and Data Structures.
+- 💞️ I’m looking to collaborate on few projects so I can get some experience.
+- 📫 How to reach me Torresge2004@gmail.com
